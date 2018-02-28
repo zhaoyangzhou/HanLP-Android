@@ -1,7 +1,7 @@
 
 # HanLP-Android
 
-基于HanLP移植至Android平台，实现汉字转拼音功能，该工程为Java项目，使用时可以导出jar文件，再引用到Android工程中
+基于HanLP移植至Android平台，实现汉字转拼音功能(支持多音字)，该工程为Java项目，使用时可以导出jar文件，再引用到Android工程中
 
 ##使用说明：
 ###1、将生成的jar文件拷贝到app/libs目录下，将HanLP-Android工程下dictionary目录拷贝至Android项目app module的assets目录下
